@@ -1,0 +1,7 @@
+counterparty,pair,direction,notional_usd,contracted_rate,days_remaining,r_foreign
+Corp A,EUR/USD,BUY,5000000,1.0850,45,0.040
+Corp B,GBP/USD,SELL,2000000,1.2650,30,0.052
+Hedge Fund C,USD/JPY,BUY,10000000,149.50,60,0.001
+Corp D,EUR/USD,SELL,3000000,1.0920,90,0.040
+Bank E,GBP/USD,BUY,4000000,1.2720,15,0.052
+Fund F,AUD/USD,SELL,1500000,0.6550,120,0.043
