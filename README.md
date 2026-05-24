@@ -107,7 +107,7 @@ Four interactive Plotly charts:
 3. No data download needed — live data pulled automatically
 
 
-```
+
 
 ---
 
