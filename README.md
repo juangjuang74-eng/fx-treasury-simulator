@@ -48,6 +48,9 @@ fx-treasury-simulator/
 ├── .gitignore
 └── README.md
 ```
+<img width="826" height="780" alt="newplot (1)" src="https://github.com/user-attachments/assets/dc7370ad-d846-4e39-9f77-f56b954934ef" />
+
+<img width="826" height="400" alt="newplot (2)" src="https://github.com/user-attachments/assets/dfcb6801-6819-4dcb-bce8-0dfa25e71e2f" />
 
 ---
 
@@ -103,12 +106,7 @@ Four interactive Plotly charts:
 2. Runtime → Run all
 3. No data download needed — live data pulled automatically
 
-### Option B — Local
-```bash
-git clone https://github.com/juangjuang74-eng/fx-treasury-simulator.git
-cd fx-treasury-simulator
-pip install -r requirements.txt
-jupyter notebook notebooks/fx_treasury_simulator.ipynb
+
 ```
 
 ---
