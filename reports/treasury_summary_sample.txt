@@ -1,0 +1,42 @@
+=================================================================
+         FX TREASURY OPERATIONS — DAILY SUMMARY REPORT
+         Report Date : 2026-05-24
+=================================================================
+
+[1] FX SPOT RATES
+    EUR/USD   : 1.0873
+    GBP/USD   : 1.2641
+    USD/JPY   : 149.82
+    AUD/USD   : 0.6512
+
+[2] EUR/USD FORWARD CURVE
+    Tenor    Rate      Pips
+    Spot     1.0873    +0.0
+    1M       1.0886   +13.2
+    2M       1.0899   +26.4
+    3M       1.0912   +39.5
+    6M       1.0951   +78.8
+    1Y       1.1028  +155.1
+
+[3] MONEY MARKET PORTFOLIO
+    Total Face Value  :      $3,500,000
+    Total Price       :      $3,466,382
+    Total Discount    :         $33,618
+    Avg Discount Rate :          5.360%
+    Avg BEY           :          5.441%
+
+[4] OTC FORWARD BOOK
+    Active Contracts  : 6
+    Total Notional    :     $25,500,000
+    Net MTM P&L       :        $+42,318
+    Contracts in Gain : 4
+    Contracts in Loss : 2
+    Alerts (>$50K)    : 1
+
+[5] SOFR BENCHMARK
+    SOFR (latest)     : 5.310%
+    MM Portfolio Rate : 5.360%
+    Spread vs SOFR    : +5.0 bps
+
+=================================================================
+✅ Report complete.
